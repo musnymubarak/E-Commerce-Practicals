@@ -1,5 +1,5 @@
 
-This repository contains Java implementations of various tasks related to loops, classes, and object-oriented programming concepts.
+This repository contains Java implementations of various tasks related to loops, classes, and E-Commerce concepts using SpringBoots.
 
 ## Implemented Features
 
