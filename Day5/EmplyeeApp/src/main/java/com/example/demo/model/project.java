@@ -12,4 +12,7 @@ public class project {
 	private String name;
 	private long totalcost;
 	
+	
+	@ManyToMany(mappedBy="projects")
+	private List<employee> employees;
 }
