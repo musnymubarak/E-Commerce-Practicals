@@ -15,5 +15,12 @@ public class employee {
 	private String name;
 	private int age;
 	private double salary;
+	
+	
+	@ManyToOne
+	private department department;
+	
+	@ManyToMany
+	private List<project>projects;
 
 }
